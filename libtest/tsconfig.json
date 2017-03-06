@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outFile": "bin/libtest/libtest.js",
+        "allowJs": true
+    },
+    "files": [
+        "src/a.js",
+        "src/b.js"
+    ]
+}

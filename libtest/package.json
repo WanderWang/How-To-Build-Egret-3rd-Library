@@ -1,0 +1,4 @@
+{
+    "name": "libtest",
+    "typings": "typings/libtest.d.ts"
+}

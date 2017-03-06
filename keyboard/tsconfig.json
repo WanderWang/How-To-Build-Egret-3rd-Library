@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outFile": "bin/keyboard/keyboard.js",
+        "declaration": true
+    },
+    "files": [
+        "src/KeyBoard.ts",
+        "libs/egret.d.ts"
+    ]
+}
