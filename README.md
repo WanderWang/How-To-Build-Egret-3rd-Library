@@ -26,7 +26,7 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "outFile": "bin/libtest1/libtest.js",
+        "outFile": "bin/libtest/libtest.js",
         "allowJs": true
     },
     "files": [
@@ -41,12 +41,13 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "outFile": "bin/libtest1/libtest.js",
+        "outFile": "bin/libtest/libtest.js",
         "declaration": true
     },
     "files": [
         "src/a.ts",
-        "src/b.ts"
+        "src/b.ts",
+        "libs/egret.d.ts"
     ]
 }
 ```
